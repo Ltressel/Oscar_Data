@@ -1,5 +1,5 @@
 # Oscar_Data
-Python exercise analyzing the Oscar Winning Film data
+Python exercise analyzing Oscar Winning Film data
 
 1. Make a github account
 
