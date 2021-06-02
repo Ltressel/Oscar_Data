@@ -1,0 +1,31 @@
+Title,Year,Rating,"Length, min",Genre,Budget,Box Office Gross
+The Shape of Water,2017,6.914,123,"['sci-fi', 'drama']",19.4,195.243464
+Moonlight,2016,6.151,110,['drama'],1.5,65.046687
+Spotlight,2015,7.489,129,"['drama', 'crime', 'history']",20,88.346473
+Birdman,2014,7.604,119,"['drama', 'comedy']",18,103.215094
+12 Years a Slave,2013,7.71,133,"['drama', 'biography', 'history']",20,178.371993
+Argo,2012,7.517,120,"['thriller', 'drama', 'biography']",44.5,232.324128
+The Artist,2011,7.942,96,"['drama', 'melodrama', 'comedy']",15,133.432856
+The Kings Speech,2010,7.977,118,"['drama', 'biography', 'history']",15,414.211549
+The Hurt Locker,2009,7.298,126,"['thriller', 'drama', 'war', 'history']",15,49.230772
+Slumdog Millionaire,2008,7.724,120,"['drama', 'melodrama']",15,377.910544
+No Country for Old Men,2007,7.726,122,"['thriller', 'drama', 'crime']",25,171.627166
+The Departed,2006,8.456,151,"['thriller', 'drama', 'crime']",90,289.847354
+Crash,2004,7.896,108,"['thriller', 'drama', 'crime']",6.5,98.410061
+Million Dollar Baby,2004,8.075,132,"['drama', 'sport']",30,216.763646
+The Lord of the Rings: Return of the King,2003,8.617,201,"['fantasy', 'drama', 'adventure']",94,1119.110941
+Chicago,2002,7.669,113,"['musical', 'comedy', 'crime']",45,306.776732
+A Beautiful Mind,2001,8.557,135,"['drama', 'biography', 'melodrama']",58,313.542341
+Gladiator,2000,8.585,155,"['action', 'drama', 'adventure']",103,457.640427
+American Beauty,1999,7.965,122,['drama'],15,356.296601
+Shakespeare in Love,1998,7.452,123,"['drama', 'melodrama', 'comedy', 'history']",25,289.317794
+Titanic,1997,8.369,194,"['drama', 'melodrama']",200,2185.372302
+The English Patient,1996,7.849,155,"['drama', 'melodrama', 'war']",27,231.976425
+Braveheart,1995,8.283,178,"['drama', 'war', 'biography', 'history']",72,210.409945
+Forrest Gump,1994,8.915,142,"['drama', 'melodrama']",55,677.386686
+Schindlers List,1993,8.819,195,"['drama', 'biography', 'history']",22,321.265768
+Unforgiven,1992,7.858,131,"['drama', 'western']",14.4,159.157447
+Silence of the Lambs,1990,8.335,114,"['thriller', 'crime', 'mystery', 'drama', 'horror']",19,272.742922
+Dances with Wolves,1990,8.112,181,"['drama', 'adventure', 'western']",22,424.208848
+Driving Miss Daisy,1989,7.645,99,['drama'],7.5,145.793296
+Rain Man,1988,8.25,133,['drama'],25,354.825435
